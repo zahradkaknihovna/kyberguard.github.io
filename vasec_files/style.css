@@ -107,7 +107,7 @@ section{
 header{
   z-index: 999;
   position: fixed;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(58, 108, 244, 0.9);
   top: 0;
   left: 0;
   width: 100%;
@@ -828,3 +828,4 @@ transform: translate(-50%);
 
   
 }
+
