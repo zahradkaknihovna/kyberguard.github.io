@@ -399,7 +399,7 @@ body{
 
 .proj {
   position: relative;
-  color: #3a6cf4;
+  color: #fff;
   font-size: 2.2em;
   font-weight: 800;
   margin-bottom:  60px;
@@ -414,7 +414,7 @@ body{
   left: 0%;
   width: 20%;
   height: 4px;
-  background: #3a6cf4;
+  background: #fff;
 }
 
 .proj::after{
@@ -425,13 +425,13 @@ left: 10%;
 width: 15px;
 height: 15px;
 border-radius: 50%;
-background: #3a6cf4;
+background: #fff;
 transform: translate(-50%);
 
 }
 
 .projects .carousel .card{
-  background: rgb(255, 255, 255);
+  background: #fff;
   border-radius: 6px;
   padding: 25px 35px;
   text-align: center;
@@ -828,6 +828,7 @@ transform: translate(-50%);
 
   
 }
+
 
 
 
