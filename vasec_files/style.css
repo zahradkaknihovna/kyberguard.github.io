@@ -431,7 +431,7 @@ transform: translate(-50%);
 }
 
 .projects .carousel .card{
-  background: rgb(130, 82, 219);
+  background: rgb(255, 255, 255);
   border-radius: 6px;
   padding: 25px 35px;
   text-align: center;
@@ -828,6 +828,7 @@ transform: translate(-50%);
 
   
 }
+
 
 
 
